@@ -1,10 +1,9 @@
 import { component$ } from '@builder.io/qwik';
 import type { DocumentHead } from '@builder.io/qwik-city';
-import { Link } from '@builder.io/qwik-city';
 
 export default component$(() => {
   return (
-    <div>
+    <div class={"page-container"}>
       <article id="236ccf0e-09fb-45cf-a274-66561ffbebd8" class="page sans">
         <header>
           <h1 class="page-title">Hi, my name is David Toth! 👋🏻</h1>
@@ -21,11 +20,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Welcome to Qwik',
+  title: 'David Toth',
   meta: [
     {
       name: 'description',
-      content: 'Qwik site description',
+      content: 'Hi, my name is David Toth! 👋🏻',
     },
   ],
 };
