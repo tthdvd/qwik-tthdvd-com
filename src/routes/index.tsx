@@ -12,7 +12,7 @@ export default component$(() => {
     <div class={"page-container"}>
       <article id="236ccf0e-09fb-45cf-a274-66561ffbebd8" class="page sans">
         <header>
-          <h1 class="page-title ">Hi, my name is <span class="tooltip">David Toth<span class="tooltiptext">a {age}-year-old product engeineer</span></span>! 👋🏻</h1>
+          <h1 class="page-title ">Hi, my name is <span class="tooltip">David Toth<span class="tooltiptext">a {age}-year-old product engineer</span></span>! 👋🏻</h1>
         </header>
         <div class="page-body">
           <p>
