@@ -24,7 +24,9 @@ export default component$(() => {
           <p>
             You might want to check out my <a href="https://medium.com/@tthdvd">blog</a> 📝,
           </p>
-
+          <p>
+            or you are just looking for my <a href="https://gastro.tthdvd.com">recipes</a>  (sorry, only in 🇭🇺 - yet),
+          </p>
           <p>
             but you can find me on these platform as well:
           </p>
